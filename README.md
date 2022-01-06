@@ -1,2 +1,2 @@
-# DeployMilitaryClock
-DeployMilitaryClock
+# -
+전역일계산기
